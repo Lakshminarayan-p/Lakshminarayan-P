@@ -35,7 +35,9 @@ Welcome to my GitHub profile! I am an aspiring SOC Analyst and Blue Teaming Spec
 <a href="https://www.sleuthkit.org/autopsy" target="_blank"><img alt="Autopsy" src="https://img.shields.io/badge/Autopsy-FF4500?logo=autopsy&logoColor=white"></a>
 <a href="https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape" target="_blank"><img alt="KAPE" src="https://img.shields.io/badge/KAPE-8B0000?logo=kape&logoColor=white"></a>
 <a href="https://www.volatilityfoundation.org" target="_blank"><img alt="Volatility" src="https://img.shields.io/badge/Volatility-708090?logo=volatility&logoColor=white"></a>
-
+<a href="https://attack.mitre.org" target="_blank"><img alt="MITRE ATT&CK" src="https://img.shields.io/badge/MITRE%20ATT&CK-000000?logo=mitre&logoColor=white"></a>
+<a href="https://engage.mitre.org" target="_blank"><img alt="MITRE Engage" src="https://img.shields.io/badge/MITRE%20Engage-0078D4?logo=mitre&logoColor=white"></a>
+<a href="https://d3fend.mitre.org" target="_blank"><img alt="MITRE D3FEND" src="https://img.shields.io/badge/MITRE%20D3FEND-FFA500?logo=mitre&logoColor=black"></a>
 
 
 ## Connect with Me
