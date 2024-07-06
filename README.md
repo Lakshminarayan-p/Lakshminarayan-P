@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I am a aspiring SOC Analyst and Blue Teaming Specialist excited about the prospect of starting a career in cybersecurity and threat detection. Currently pursuing a degree in Computer Science specializing in cybersecurity. Recognized by peers for my effective analytical and critical thinking skills.
-Here you can find my personal projects.  
+Welcome to my GitHub profile! I am an aspiring SOC Analyst and Blue Teaming Specialist, passionate about cybersecurity and threat detection. Currently, I am pursuing a degree in Computer Science with a specialization in cybersecurity. This profile showcases my personal and college projects, demonstrating my skills and dedication to the field. Explore my repositories to see my work in intrusion prevention, threat analysis, and various cybersecurity tools and techniques.  
 
 ## GitHub Stats
 
