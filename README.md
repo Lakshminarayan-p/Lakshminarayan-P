@@ -1,50 +1,44 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I am an AR/VR Developer Intern at @Roche.
+Welcome to my GitHub profile! I am a aspiring SOC Analyst and Blue Teaming Specialist excited about the prospect of starting a career in cybersecurity and threat detection. Currently pursuing a degree in Computer Science specializing in cybersecurity. Recognized by peers for my effective analytical and critical thinking skills.
 Here you can find my personal projects.  
-
-### Professional Account:  
- [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/LingeshRoche)
 
 ## GitHub Stats
 
-<a href="https://github.com/Lingesh15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lingesh15&show_icons=true&theme=radical" />
+<a href="https://github.com/Lakshminarayan-p">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lakshminarayan-p&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/Lingesh15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingesh15&layout=compact&theme=radical" />
+<a href="https://github.com/Lakshminarayan-p">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshminarayan-p&layout=compact&theme=radical" />
 </a>
 </br>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lingesh15&theme=radical&hide_border=false" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshminarayan-p&theme=radical&hide_border=false" />
 
 ## Tools & Technologies I use
 
-<a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white"></a>
 <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
-<a href="https://www.docker.com" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"></a>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"></a>
-<a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"></a>
-<a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"></a>
-<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
-<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white"></a>
-<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"></a>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
-<a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual%20studio%20code&logoColor=white"></a>
-<a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white"></a>
-<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white"></a>
-<a href="#"><img alt="Google Docs" src="https://img.shields.io/badge/Google%20Docs-4285F4?logo=google-docs&logoColor=white"></a>
-<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white"></a>
-<a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"></a>
-<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"></a>
-<a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"></a>
-<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/YARA" target="_blank"><img alt="YARA" src="https://img.shields.io/badge/YARA-000000?logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"></a>
+<a href="https://www.tenable.com/products/nessus" target="_blank"><img alt="Nessus" src="https://img.shields.io/badge/Nessus-0052CC?logo=tenable&logoColor=white"></a>
+<a href="https://www.openvas.org" target="_blank"><img alt="OpenVAS" src="https://img.shields.io/badge/OpenVAS-008000?logo=openvas&logoColor=white"></a>
+<a href="https://cirt.net/Nikto2" target="_blank"><img alt="Nikto" src="https://img.shields.io/badge/Nikto-FF0000?logoColor=white"></a>
+<a href="https://www.gfi.com/products-and-solutions/network-security-solutions/lan-guard" target="_blank"><img alt="GFI LanGuard" src="https://img.shields.io/badge/GFI%20LanGuard-FFD700?logo=gfi&logoColor=black"></a>
+<a href="https://www.opencti.io" target="_blank"><img alt="OpenCTI" src="https://img.shields.io/badge/OpenCTI-1E90FF?logoColor=white"></a>
+<a href="https://www.misp-project.org" target="_blank"><img alt="MISP" src="https://img.shields.io/badge/MISP-FF4500?logo=misp&logoColor=white"></a>
+<a href="https://talosintelligence.com" target="_blank"><img alt="CISCO Talos" src="https://img.shields.io/badge/CISCO%20Talos-1BA0D7?logo=cisco&logoColor=white"></a>
+<a href="https://phishtool.com" target="_blank"><img alt="Phishtool" src="https://img.shields.io/badge/Phishtool-2F4F4F?logoColor=white"></a>
+<a href="https://www.snort.org" target="_blank"><img alt="Snort" src="https://img.shields.io/badge/Snort-FF6347?logo=snort&logoColor=white"></a>
+<a href="https://www.wireshark.org" target="_blank"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white"></a>
+<a href="https://portswigger.net/burp" target="_blank"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-F20000?logo=burpsuite&logoColor=white"></a>
+<a href="https://nmap.org" target="_blank"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-4682B4?logo=nmap&logoColor=white"></a>
+<a href="https://www.splunk.com" target="_blank"><img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white"></a>
+<a href="https://git-scm.com" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
+<a href="https://www.sleuthkit.org/autopsy" target="_blank"><img alt="Autopsy" src="https://img.shields.io/badge/Autopsy-FF4500?logo=autopsy&logoColor=white"></a>
+<a href="https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape" target="_blank"><img alt="KAPE" src="https://img.shields.io/badge/KAPE-8B0000?logo=kape&logoColor=white"></a>
+<a href="https://www.volatilityfoundation.org" target="_blank"><img alt="Volatility" src="https://img.shields.io/badge/Volatility-708090?logo=volatility&logoColor=white"></a>
+
+
 
 ## Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white)](mailto:lingesh.p.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin)](https://linkedin.com/in/lingesh-perumal-a90130223)
-[![Medium](https://img.shields.io/badge/Medium-Profile-12100E?logo=medium)](https://medium.com/@arumugamperumal471)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white)](mailto:lakshminarayan.work@gmail.com)
 
