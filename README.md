@@ -2,16 +2,6 @@
 
 Welcome to my GitHub profile! I am an aspiring SOC Analyst and Blue Teaming Specialist, passionate about cybersecurity and threat detection. Currently, I am pursuing a degree in Computer Science with a specialization in cybersecurity. This profile showcases my personal and college projects, demonstrating my skills and dedication to the field. Explore my repositories to see my work in intrusion prevention, threat analysis, and various cybersecurity tools and techniques.  
 
-## GitHub Stats
-
-<a href="https://github.com/Lakshminarayan-p">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lakshminarayan-p&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/Lakshminarayan-p">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshminarayan-p&layout=compact&theme=radical" />
-</a>
-</br>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshminarayan-p&theme=radical&hide_border=false" />
 
 ## Tools & Technologies I use
 
